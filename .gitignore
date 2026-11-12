@@ -1,0 +1,6 @@
+# Donnees brutes : re-telechargeables via python scripts/download_data.py
+data/
+
+__pycache__/
+*.pyc
+.venv/
